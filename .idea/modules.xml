@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Hentai-Soundboard.iml" filepath="$PROJECT_DIR$/Hentai-Soundboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Soundboard-Template/soundboard-template/soundboardTemplate.iml" filepath="$PROJECT_DIR$/Soundboard-Template/soundboard-template/soundboardTemplate.iml" />
+    </modules>
+  </component>
+</project>
