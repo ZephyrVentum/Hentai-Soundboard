@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#008577</color>
-    <color name="colorPrimaryDark">#00574B</color>
-    <color name="colorAccent">#D81B60</color>
+    <color name="colorPrimary">#F4B0D8</color>
+    <color name="colorPrimaryDark">#d756a8</color>
+    <color name="colorAccent">@android:color/white</color>
+    <color name="item_image_border_color">#d756a8</color>
+    <color name="ripple_effect_color">#78F4B0D8</color>
+    <color name="toolbar_items_color">@android:color/white</color>
+
 </resources>

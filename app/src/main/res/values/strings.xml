@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Hentai Soundboard</string>
+    <string name="soft_banner">ca-app-pub-9581992838845527/3906765313</string>
+    <string name="hentai_banner">ca-app-pub-9581992838845527/1890195817</string>
+    <string name="orgasm_banner">ca-app-pub-9581992838845527/7330224751</string>
+    <string name="petting_banner">ca-app-pub-9581992838845527/8703974039</string>
+
+    <string name="soft_category">soft</string>
+    <string name="petting_category">petting</string>
+    <string name="orgasm_category">orgasm</string>
+    <string name="hentai_category">hentai</string>
 </resources>
