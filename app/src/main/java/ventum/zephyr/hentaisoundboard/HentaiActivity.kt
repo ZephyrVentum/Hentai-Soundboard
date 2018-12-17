@@ -58,5 +58,7 @@ class HentaiActivity : SoundboardActivity() {
         )
     }
 
-    override fun getBlurRadius(): Int = 1
+    override fun getBlurRadius(): Int = 0
+
+    override fun getClickToAdsCount() = Random().nextInt(3) + 7
 }

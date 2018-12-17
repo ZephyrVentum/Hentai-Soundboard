@@ -1,5 +1,9 @@
 <resources>
     <string name="app_name">Hentai Soundboard</string>
+    <string name="share_text">Look at this fun! The best soundboard ever!\nhttps://play.google.com/store/apps/details?id=ventum.zephyr.hentaisoundboard</string>
+    <string name="rate_us_market">market://details?id=ventum.zephyr.hentaisoundboard</string>
+    <string name="admob_interstitial_unit_id">ca-app-pub-9581992838845527/8670709660</string>
+
     <string name="soft_banner">ca-app-pub-9581992838845527/3906765313</string>
     <string name="hentai_banner">ca-app-pub-9581992838845527/1890195817</string>
     <string name="orgasm_banner">ca-app-pub-9581992838845527/7330224751</string>
